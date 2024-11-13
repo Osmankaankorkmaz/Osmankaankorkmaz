@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Osman kaan korkmaz</h1>
+<h1 align="center">Hey there! I'm <br>Osman Kaan Korkmaz 👋</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 Currently working on [Gökpençe](https://github.com/Osmankaankorkmaz/gokpence-web-site), a project that blends creativity and technology.
